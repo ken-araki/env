@@ -35,6 +35,9 @@ code --install-extension ryu1kn.partial-diff
 ## React snippets
 code --install-extension dsznajder.es7-react-js-snippets
 
+## Babel JavaScript
+code --install-extension mgmcdermott.vscode-language-babel
+
 ## Marp for VSCode
 ## see. https://marketplace.visualstudio.com/items?itemName=marp-team.marp-vscode
 code --install-extension marp-team.marp-vscode
