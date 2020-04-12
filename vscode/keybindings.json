@@ -1,0 +1,20 @@
+// Place your key bindings in this file to override the defaults
+[
+  // see Key bindings
+  // https://code.visualstudio.com/docs/editor/intellisense#_key-bindings
+  {
+    "key": "ctrl+space",
+    "command": "editor.action.triggerSuggest",
+    "when": "editorHasCompletionItemProvider && editorTextFocus && !editorReadonly"
+  },
+  {
+    "key": "ctrl+space",
+    "command": "toggleSuggestionDetails",
+    "when": "editorTextFocus && suggestWidgetVisible"
+  },
+  {
+    "key": "ctrl+alt+space",
+    "command": "toggleSuggestionFocus",
+    "when": "editorTextFocus && suggestWidgetVisible"
+  }
+]
