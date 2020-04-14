@@ -22,7 +22,7 @@ code --install-extension PKief.material-icon-theme
 
 ## GitLens
 ## see. https://marketplace.visualstudio.com/items?itemName=eamodio.gitlens
-
+code --install-extension eamodio.gitlens
 
 ## REST CLIENT
 ## see. https://marketplace.visualstudio.com/items?itemName=humao.rest-client
